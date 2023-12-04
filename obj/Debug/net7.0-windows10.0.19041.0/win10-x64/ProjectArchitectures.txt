@@ -1,0 +1,1 @@
+D:\7 - projetos\MvvmDemo\MvvmDemo.csproj;x64
